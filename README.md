@@ -3,7 +3,13 @@
 Since my first computer science class in year 10, I knew writing code was something I'd love to be able to do for a career. I still remember the first iteration loop I wrote, it printed "Hello World" 10 times. To my 15 year old self, it was amazing! And it started the journey that brings me here today. Young and excited, I genuinely can't wait to jump in head-first into this industry!
 
 ## Projects
-Over my time at Makers, I built a few different projects to "learn how to learn" new technologies and how to properly work alongside other developers in groups. Through this I also
+Over my time at Makers, I built a few different projects to "learn how to learn" new technologies and how to properly work alongside other developers in groups. These projects also provided a first-hand experience of meeting user briefs and working to strict requirements.
+
+| Project Name | Description | Tech Stack |
+|---|---|---|
+| [PostBox](https://github.com/Kefuri/MakersPostBox) | A 2 week project undertaken at the end of the Makers Course. The idea and all work thereof was planned and built without guidance from coaches on the course.  | Ruby on Rails, JavaScript, HTML, Embedded Ruby, RSpec, Capybara |
+| [AceBook](https://github.com/Kefuri/acebook-catflap) | A 2 week project where user stories and requirements were provided by coaches | Ruby on Rails, JavaScript, RSpec, Capybara  |
+| [Bank Tech Test](https://github.com/Kefuri/MakersBankTechTest) | A 3 day tech test practice exercise to get used to the tech test format | Ruby, RSpec |
 
 
 ## Soft Skills
