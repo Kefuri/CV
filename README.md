@@ -1,24 +1,29 @@
 ## Haydon Houghton
 
-Since my first computer science class in year 10, I knew writing code was something I'd love to be able to do for a career. One iteration loop later and the descent into the rabbit hole began.
+Since my first computer science class in year 10, I knew writing code was something I'd love to be able to do for a career. I still remember the first iteration loop I wrote, it printed "Hello World" 10 times. To my 15 year old self, it was amazing! And it started the journey that brings me here today. Young and excited, I genuinely can't wait to jump in head-first into this industry!
 
-Young and excited, I'm an 18 year old junior software developer raring to get into the world of software development and build
-a career in the industry. 
+## Projects
+Over my time at Makers, I built a few different projects to "learn how to learn" new technologies and how to properly work alongside other developers in groups. Through this I also
 
 
-## Skills
+## Soft Skills
 **Adaptation**
-After moving countries twice and changing schools 3 times, being adaptable became second nature - and it was only pushed further in facilities. Whether it be adapting to the needs of workers when planning a warehouse refurbish or adjusting to a completely new culture, I'm more than capable.
+After moving countries twice and changing schools 3 times, being adaptable became second nature - and it was only pushed further in facilities. Whether it be adapting to the needs of workers when planning a warehouse refurbish or adjusting to ever-changing user requirements, I'm more than capable.
 
 **Problem Solving**
-With a logical mindset built up from A-Level Maths and an intense internship in facilities, I can find efficient solutions to problems fast. Incredibly beneficial when your rubber duck won't tell you what the problem is.
+With a logical mindset built up from A-Level Maths, playing video games (who'd have thought they'd ever be useful?) and managing warehouse facilities, I can find efficient solutions to problems fast. This is, of course, very helpful when your rubber ducky debugger refuses to spit up the goods.
 
+**Resilience**
+Writing code can be tough. You try 1300 different things and none of them work. You've got 17 stack overflow tabs open but they're all marked as duplicates and you just want to pull your hair out. Being resilient means you can get through another 1300 different approaches without feeling disheartened, because it definitely is possible. Though hopefully it won't take that long.
+
+**Fast Learning**
+The Makers Academy bootcamp is only 12 weeks long. In that time, I learned and digested a huge amount of information everyday. Similarly, in my A-Level CompSci final project, I learned how to use the TKinter library with a backend SQL database in a matter of a couple months. I've become great at learning new things in a short timeframe.
 ****
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January - April 2020 )
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -27,7 +32,7 @@ With a logical mindset built up from A-Level Maths and an intense internship in 
 
 ### The Palmer Catholic Academy (2015-2019)
 
-Chosen to be a Prefect in Year 11 and somehow elected by my peers for Deputy Head Boy in Year 13,
+Chosen to be a Prefect in Year 11 and elected by my peers for Deputy Head Boy in Year 13,
 I made the most of my time at school by putting myself out there for new challenges like the UKMT
 Senior Maths Challenge, and teaching younger students how to use Python for their Year 11 Computing 
 coursework.
@@ -42,7 +47,7 @@ coursework.
   
 ### IES Bendinat (Spain, 2012-2015)
 
-I started my secondary education in sunny Mallorca - I learned all the normal stuff, except in Spanish, which made things much more interesting. I'd like to think I adapted well.
+I started my secondary education in sunny Mallorca - I learned all the normal stuff, except in Spanish, which made things much more interesting.
 
 ## Experience
 
@@ -54,12 +59,11 @@ so I learnt to work with the pressure of many people depending on my actions.
 
 **Freelance Software Development** (November '18 - May '19)     
 *Junior Developer*
-- Learning the ropes of asynchronous Python as a part-time developer for a Discord bot used in a 10,000+ user community. See my Kiara repo for my commit history. [Hyperlink Here]
-I learned to take a brief and create a tool that was fitting to what the team needed and deliver it in a suitable timeframe.
+- Learning the ropes of asynchronous Python as a part-time developer for a Discord bot used in a 10,000+ user community. See [Kiara, A Discord Bot](https://github.com/Nekorooni/Kiara), for more on the code. I learned to take a brief and create a tool that was fitting to what the moderation team needed and get it to them in a suitable timeframe.
 
-**Work Experience - Software Development at Echo Pharmacy** (Summer '18)
-- Experienced my first taste of real-world software development by shadowing devs and giving thoughts in weekly stand-ups.
-Got to see how developers on a team work together to accomplish goals first-hand. Witnessed the deployment of a major tool for the Ops team and how the process was handled.
+**Echo Pharmacy** (Summer '18)
+*Work-Experience in Software Development*
+- Experienced my first taste of real-world software development by shadowing devs and giving thoughts in weekly stand-ups. I was taught about GitHub team workflow, and witnessed the deployment of a major refactor in the Operation tech tools. This is a big reason as to why I'm here today!
 
 **Ryman Stationery** (August '17 - September '18 Part Time)     
 *Sales Assistant*  
@@ -72,8 +76,8 @@ that they'd want to come back again.
 
 Video Games - Nothing I love more than sitting down with a few friends and playing some fun, challenging games.
 
-Photoshop - Pieceing together different graphic renders and playing with colour palletes was a fun way of channeling my creativity [Link DeviantArt once Set Up?]
+Photoshop - GFX to be more specific! Bringing together different graphic renders and playing with colour pallettes is a nice way of expressing some creativity.
 
-Reading - Tucking into a novel is a great passtime. Especially if it's written by Haruki Murakami.
+Reading - just to get away from the real world for a while!
 
 
