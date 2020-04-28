@@ -1,6 +1,6 @@
 # Haydon Houghton
 
-Since my first computer science class in year 10, I knew writing code was something I'd love to be able to do for a career. I still remember the first iteration loop I wrote, it printed "Hello World" 10 times. To my 15 year old self, it was amazing! And it started the journey that brings me here today. Young and excited, I genuinely can't wait to jump head-first into this industry!
+A young back-end developer who has just graduated from Makers Academy. With an educational background involving CompSci, prior experience as a freelancing developer and work experience in the dev team at Echo Pharmacy, I'd bring a rock-solid foundation ready to be built up for any team, with a generous side helping of raw enthusiasm.
 
 ## Projects
 Over my time at Makers, I built a few different projects to "learn how to learn" new technologies and how to properly work alongside other developers in groups. These projects also provided a first-hand experience of meeting user briefs and working to strict requirements.
@@ -68,7 +68,7 @@ I started my secondary education in sunny Mallorca - I learned all the normal st
 
 **Echo Pharmacy** (July 2019 - November 2019)    
 *Facilities Assistant* 
-- Communication with those in the workplace and delivering optimal solutions for people's needs
+- Communicating with those in the workplace and delivering optimal solutions for people's needs
 required logical and straight-to-the-point thinking. Missing deadlines meant operations could come to a halt, 
 so I learnt to work with the pressure of many people depending on my actions.
 
