@@ -9,7 +9,7 @@ Over my time at Makers, I built a few different projects to "learn how to learn"
 |---|---|---|
 | [PostBox](https://github.com/Kefuri/MakersPostBox) | A Virtual Gifting app to send care packages full of fun images and videos to friends and loved ones - a way of sharing some joy in harder times. You can find it deployed [here](http://makers-postbox.herokuapp.com/) | Ruby on Rails, JavaScript, HTML, Embedded Ruby, RSpec, Capybara |
 | [AceBook](https://github.com/Kefuri/acebook-catflap) | A Facebook clone built in a 2 week period where user stories and requirements were provided by Makers coaches. Deployed [here](http://acebook-catflap.herokuapp.com/) | Ruby on Rails, JavaScript, RSpec, Capybara  |
-| [Bank Tech Test](https://github.com/Kefuri/MakersBankTechTest) | A 3 day challenge to gain some practice  | Ruby, RSpec |
+| [Bank Tech Test](https://github.com/Kefuri/MakersBankTechTest) | A 3 day challenge to cover the format of writing a tech test. The code was reviewed under strict guidelines to ensure a high quality was met. | Ruby, RSpec |
 
 
 ## Soft Skills
