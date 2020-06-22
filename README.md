@@ -1,5 +1,9 @@
 # Haydon Houghton
 
+<a href="https://www.codewars.com/users/kefuri"><img src="images/codewars.png" width="100" alt="Codewars"></a>
+
+<a href="https://www.linkedin.com/in/haydon-rh/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
+
 A young back-end developer who has just graduated from Makers Academy. With an educational background involving CompSci, prior experience as a freelancing developer and work experience in the dev team at Echo Pharmacy, I'd bring a rock-solid foundation ready to be built up for any team, with a generous side helping of raw enthusiasm.
 
 ## Projects
@@ -74,14 +78,17 @@ so I learnt to work with the pressure of many people depending on my actions.
 
 **Freelance Software Development** (November 2018 - May 2019)     
 *Junior Developer*
+
 - Learning the ropes of asynchronous Python as a part-time developer for a Discord bot used in a 10,000+ user community. See [Kiara, A Discord Bot](https://github.com/Nekorooni/Kiara), for more on the code. I learned to take a brief and create a tool that was fitting to what the moderation team needed and get it to them in a suitable timeframe.
 
 **Echo Pharmacy** (Summer 2018)
 *Work-Experience in Software Development*
+
 - Experienced my first taste of real-world software development by shadowing devs and giving thoughts in weekly stand-ups. I was taught about GitHub team workflow, and witnessed the deployment of a major refactor in the Operation tech tools. This is a big reason as to why I'm here today!
 
 **Ryman Stationery** (August 2017 - September 2018 Part Time)     
 *Sales Assistant*  
+
 - Worked within a team to surpass sales goals, interacting with customers was the bulk of this job. 
 Overall, the most important aspect of my role was building a good reputation for the brand with customers so 
 that they'd want to come back again.
