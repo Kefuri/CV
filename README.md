@@ -1,9 +1,9 @@
 # Haydon Houghton
-
+<img src="images/white_space.jpg" width="170" height="100">
 <a href="https://www.codewars.com/users/kefuri"><img src="images/codewars.png" width="100" alt="Codewars"></a>
-
+<img src="images/white_space.jpg" width="170" height="100">
 <a href="https://www.linkedin.com/in/haydon-rh/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
-
+<img src="images/white_space.jpg" width="170" height="100">
 A young back-end developer who has just graduated from Makers Academy. With an educational background involving CompSci, prior experience as a freelancing developer and work experience in the dev team at Echo Pharmacy, I'd bring a rock-solid foundation ready to be built up for any team, with a generous side helping of raw enthusiasm.
 
 ## Projects
